@@ -38,9 +38,15 @@
                 </div>
             </div>
             <div class="card-footer">
-                <button class="btn btn-lg btn-primary">Entrar</button>
+                <button class="btn btn-lg btn-primary" name="submit">Entrar</button>
             </div>
         </div>
     </form>
 </body>
 </html>
+
+<?php
+
+if(isset($_POST['submit'])){
+    header('Location: ../src/views/main.php');
+}
