@@ -2,27 +2,27 @@
     <nav class="menu mt-3">
         <ul class="nav-list">
             <li class="nav-item">
-                <a href="">
+                <a href="estoque.php">
                     <i class="icofont-ui-check mr-2"></i>
-                    menu 1
+                    Estoque
                 </a>
             </li>
             <li class="nav-item">
-                <a href="">
+                <a href="production.php">
                     <i class="icofont-ui-calendar mr-2"></i>
-                    menu 2
+                    Produção
                 </a>
             </li>
             <li class="nav-item">
                 <a href="">
                     <i class="icofont-chart-histogram mr-2"></i>
-                    menu 3
+                    Fornecedores
                 </a>
             </li>
             <li class="nav-item">
                 <a href="">
                     <i class="icofont-users mr-2"></i>
-                    menu 4
+                    Usuários
                 </a>
             </li>
         </ul>
