@@ -31,7 +31,7 @@
                     <td>Empresa 2</td>
                     <td>7</td>
                     <td>
-                        <a href=""
+                        <a href="templates/modal.php"
                             class="btn btn-warning rounded-circle">
                             <i class="icofont-edit"></i>
                         </a>

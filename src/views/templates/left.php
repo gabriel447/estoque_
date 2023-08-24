@@ -14,13 +14,13 @@
                 </a>
             </li>
             <li class="nav-item">
-                <a href="">
+                <a href="main.php">
                     <i class="icofont-chart-histogram mr-2"></i>
                     Fornecedores
                 </a>
             </li>
             <li class="nav-item">
-                <a href="">
+                <a href="main.php">
                     <i class="icofont-users mr-2"></i>
                     Usuários
                 </a>
