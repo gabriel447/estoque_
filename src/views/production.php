@@ -11,7 +11,7 @@
             <th>Nome</th>
             <th>Quantidade</th>
             <th>Status</th>
-            <th>Concluir</th>
+            <th></th>
         </thead>
         <tbody>
                 <tr>
@@ -19,10 +19,7 @@
                     <td>1</td>
                     <td>em produção</td>
                     <td>
-					<a href="" 
-                            class="btn btn-success rounded-circle mr-2">
-                            <i class="icofont-check"></i>
-                        </a>
+					
                     </td>
                 </tr>
                 <tr>
